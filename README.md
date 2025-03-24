@@ -8,8 +8,8 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, JavaScript, Python, C  
-- **Backend**: Spring Boot (Microservices), Node.js (BFF), Express.js  
+- **Languages**: Java, C  
+- **Backend**: Spring Boot (Microservices), Node.js (BFF)
 - **Frontend**: React.js, Next.js, Tailwind CSS, Framer Motion  
 - **Database**: MySQL  
 - **DevOps**: Docker, GitHub Actions, AWS EC2  
@@ -32,7 +32,3 @@
 - JavaFX-based standalone game with SQLite.  
 - Engaging way to learn about wildlife.  
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmitha)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rashmitha)  
